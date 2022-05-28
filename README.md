@@ -12,4 +12,4 @@ https://alpha-counter-app.netlify.app/
 
 ### Note 
 
-Beware the app is very addictive use it at your own risk!
+Beware! the app is very addictive use it at your own risk!
