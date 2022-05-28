@@ -5,7 +5,7 @@ A counter app where you can increase, decrease a value and also reset whenever y
 
 https://alpha-counter-app.netlify.app/
 
-##Demo
+## Demo
 
 ![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/25353461/170823117-cf5f5fdd-cf7e-498e-8160-ab062165bcae.gif)
 
